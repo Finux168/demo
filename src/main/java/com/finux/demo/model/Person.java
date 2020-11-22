@@ -14,10 +14,14 @@ public class Person {
     private Integer id;
 
     /**
+     * 名
      * 英文中的名
      */
     private String firstName;
 
+    /**
+     * 姓
+     */
     private String lastName;
 
     private Integer age;
