@@ -13,6 +13,9 @@ public class Person {
      */
     private Integer id;
 
+    /**
+     * 英文中的名
+     */
     private String firstName;
 
     private String lastName;
