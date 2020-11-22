@@ -8,6 +8,9 @@ package com.finux.demo.model;
  */
 public class Person {
 
+    /**
+     * 唯一id
+     */
     private Integer id;
 
     private String firstName;
