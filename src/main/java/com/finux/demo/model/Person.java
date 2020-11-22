@@ -10,6 +10,9 @@ public class Person {
 
     private Integer id;
 
+    /**
+     * 名
+     */
     private String firstName;
 
     private String lastName;
