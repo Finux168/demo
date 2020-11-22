@@ -13,8 +13,14 @@ public class Person {
      */
     private Integer id;
 
+    /**
+     * 名
+     */
     private String firstName;
 
+    /**
+     * 姓
+     */
     private String lastName;
 
     private Integer age;
