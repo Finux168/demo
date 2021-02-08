@@ -25,6 +25,7 @@ public class DemoApplication {
 //        System.out.println("get方法之后"+new Date().toString());
 //        System.out.println(s);
         //jrebel.qekang.com
+        System.out.println(1);
 
         SpringApplication.run(DemoApplication.class, args);
     }
