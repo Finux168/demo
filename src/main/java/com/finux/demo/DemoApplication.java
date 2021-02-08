@@ -12,7 +12,7 @@ import java.util.concurrent.ExecutionException;
 public class DemoApplication {
 
     public static void main(String[] args) throws ExecutionException, InterruptedException {
-//        System.out.println("---------------");
+        System.out.println("---------------");
 
 //        FutureTask<String> futureTask = new FutureTask<>(()->{
 //            TimeUnit.SECONDS.sleep(5);
